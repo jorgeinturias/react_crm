@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "comida 222",
+      "empresa": "Inturias",
+      "email": "inturias@gmail.com",
+      "telefono": "68580607",
+      "notas": "asdasd",
+      "id": 1
+    },
+    {
+      "nombre": "Jorge",
+      "empresa": "Inturias",
+      "email": "inturias@gmail.com",
+      "telefono": "68580607",
+      "notas": "yo mismo\n",
+      "id": 3
+    },
+    {
+      "nombre": "doctor Inturias",
+      "empresa": "123123",
+      "email": "asdasdasdasdasd@gmail.com",
+      "telefono": "234234",
+      "notas": "el doctor",
+      "id": 4
+    },
+    {
+      "nombre": "Wachula",
+      "empresa": "pros",
+      "email": "pros@wachula.com",
+      "telefono": "345345",
+      "notas": "no hay notas",
+      "id": 6
+    },
+    {
+      "nombre": "Nombre nuevo",
+      "empresa": "123123",
+      "email": "inturias@gmail.com",
+      "telefono": "68580607",
+      "notas": "asdasd",
+      "id": 7
+    },
+    {
+      "nombre": "Yo Mismo",
+      "empresa": "Inturias",
+      "email": "jose@gmail.com",
+      "telefono": "234234",
+      "notas": "no cliente",
+      "id": 9
+    }
+  ]
+}
